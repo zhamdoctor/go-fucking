@@ -1,0 +1,1 @@
+自己开发一个简单版的docker，目前加入namespace和cgroup基础隔离能力，mem性能限制和一些基础知识复习。
